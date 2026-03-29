@@ -15,9 +15,14 @@
 
 ---
 
-### 📊 GitHub 统计 (Stats)
+### 🛠️ 技术栈与折腾日常 (Tech Stack & Modding)
 
-![Yahuoya's Stats](https://github-readme-stats.vercel.app/api?username=Yahuoya&show_icons=true&theme=radical)
+| 领域 | 技能 / 探索中 |
+| :--- | :--- |
+| **编程语言** | **Python** (正在用它构建有趣的逻辑) |
+| **底层探索** | **Assembly** (x86-16) |
+| **硬核爱好** | **Android Modding** (Custom ROMs, Rooting, Magisk,kernelSU) |
+| **软爱好** | Jpop, Jrock, E-books |
 
 ---
 
