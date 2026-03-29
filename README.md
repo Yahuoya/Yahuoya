@@ -19,10 +19,10 @@
 
 | 领域 | 技能 / 探索中 |
 | :--- | :--- |
-| **编程语言** | **Python** (正在用它构建有趣的逻辑) |
-| **底层探索** | **Assembly** (x86-16) |
-| **硬核爱好** | **Android Modding** (Custom ROMs, Rooting, Magisk,kernelSU) |
-| **软爱好** | Jpop, Jrock, E-books |
+| **编程语言** | **Python** (初学) |
+| **初步探索** | **Assembly** (x86-16) |
+| **刷机爱好** | **Android Modding** (Custom ROMs, Rooting, Magisk,kernelSU) |
+| **生活爱好** | Jpop, Jrock, E-books |
 
 ---
 
