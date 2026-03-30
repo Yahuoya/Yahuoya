@@ -1,38 +1,50 @@
 # 👋 你好，我是 Yahuoya！
 
-> “幸字中包含￥是为什么呢，去掉一条线就会变成辛是故意的吗。” ✨
+<p align="center">
+    <a href="https://github.com/Yahuoya"><img src="https://img.shields.io/badge/status-exploring-FF69B4.svg"></a>
+    <a href="https://github.com/Yahuoya"><img src="https://img.shields.io/badge/Python-Learning-3776AB.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/Yahuoya"><img src="https://img.shields.io/badge/Assembly-x86--16-red.svg"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Yahuoya.Yahuoya" alt="visitors"/>   
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Yahuoya%EF%BC%81;%E5%9C%A8%E7%90%86%E6%80%A7%E4%B8%8E%E6%84%9F%E6%80%A7%E4%B9%8B%E9%97%B4%E6%BC%AB%E6%B8%B8%E7%9A%84%E4%BA%BA%E3%80%82;%E6%AD%A3%E5%9C%A8%E6%8E%A2%E7%B4%A2+Python+%E4%B8%8E+Assembly+%E7%9A%84%E5%A5%A5%E7%A7%98%E3%80%82;Jpop+%26+Jrock+%E7%88%B1%E5%A5%BD%E8%80%85+%F0%9F%8E%A7" alt="Typing SVG" /></a>
+</p>
 
 ---
 
-### 💫 关于我（About Me）
+### 💫 关于我 (About Me)
+
+> “幸字中包含￥是为什么呢，去掉一条线就会变成辛是故意的吗。” ✨
 
 我是一个在理性与感性之间漫游的人。我痴迷于那些能触动灵魂的瞬间——无论是耳机里激昂的电吉他，还是阅读中跳动的文字。
 
-- 🌱 **成长中**：目前正在探索 **Python**，**Assembly** 的奥秘。我喜欢这种从零开始，用一行行逻辑构建出某种秩序的过程。
-- 🎧 **耳朵里的世界**：一个 **Jpop** 与 **Jrock** 爱好者。从 **ヨルシカ**的风格多变到 **ずっと真夜中でいいのに。** 的深夜蹦迪，或是那些术力口（Vocaloid）歌姬，都是我的“燃料”。
-- 📖 **精神角落**：习惯在电子书的字里行间穿梭，享受那种随身携带一座图书馆的自由感。
-- 💬 **找我聊聊**：如果你也喜欢挖掘冷门的乐团，或者有值得熬夜读完的好书推荐，请务必告诉我！
-
 ---
 
-### 🛠️ 技术栈与折腾日常 (Tech Stack & Modding)
+### 🛠️ 折腾日常 (Skills & Modding)
 
-| 领域 | 技能 / 探索中 |
+| 领域 | 秘籍 / 探索进度 |
 | :--- | :--- |
-| **编程语言** | **Python** (初学) |
-| **初步探索** | **Assembly** (x86-16) |
-| **刷机爱好** | **Android Modding** (Custom ROMs, Rooting, Magisk,kernelSU) |
-| **生活爱好** | Jpop, Jrock, E-books |
-
----
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-![Yahuoya's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+| **编程语言** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-CC0000?style=flat) |
+| **刷机爱好** | ![Android](https://img.shields.io/badge/-Android_Modding-3DDC84?style=flat&logo=android&logoColor=white) ![Magisk](https://img.shields.io/badge/-Magisk-00AF9A?style=flat) |
+| **精神燃料** | ![Jpop](https://img.shields.io/badge/-Jpop-FF69B4?style=flat) ![Jrock](https://img.shields.io/badge/-Jrock-000000?style=flat) ![E-books](https://img.shields.io/badge/-E--books-444444?style=flat) |
 
 ---
 
-### 📫 联系我 (Connect with Me)
+### 📈 修行足迹 (GitHub Stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yahuoya&show_icons=true&theme=radical&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahuoya&theme=radical&layout=compact" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahuoya&theme=radical" />
+</p>
+
+---
+
+### 📫 与我联系 (Connect with Me)
 
 [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/MyMusic_Backup)
 [<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/31feluvvkh46k4t2hzgq7t6lmeee)
@@ -43,10 +55,6 @@
 
 ✨ *感谢拜访！愿你今天也能在喜欢的旋律里，遇见心动的文字。*
 
-### Profile Views
-Counting of visitors to this page in this section started from March 30, 2026
-
-![](https://count.getloli.com/get/@Yahuoya.github.readme)
-</br>
-
-[MIT](LICENSE)
+<p align="right"> 
+  <img src="https://count.getloli.com/get/@Yahuoya.github.readme">
+</p>
