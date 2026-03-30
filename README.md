@@ -36,3 +36,11 @@
 ---
 
 ✨ *感谢拜访！愿你今天也能在喜欢的旋律里，遇见心动的文字。*
+
+### Profile Views
+counting of visitors to this page in this section started from March 30, 2026
+
+![](https://count.getloli.com/get/@Yahuoya.github.readme)
+</br>
+
+[MIT](LICENSE)
