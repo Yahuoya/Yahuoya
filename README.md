@@ -25,6 +25,12 @@
 | **生活爱好** | Jpop, Jrock, E-books |
 
 ---
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![Yahuoya's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
+---
 
 ### 📫 联系我 (Connect with Me)
 
@@ -38,7 +44,7 @@
 ✨ *感谢拜访！愿你今天也能在喜欢的旋律里，遇见心动的文字。*
 
 ### Profile Views
-counting of visitors to this page in this section started from March 30, 2026
+Counting of visitors to this page in this section started from March 30, 2026
 
 ![](https://count.getloli.com/get/@Yahuoya.github.readme)
 </br>
