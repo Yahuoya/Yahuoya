@@ -1,0 +1,47 @@
+[System]
+Name='923101870522'
+Type='mamdani'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=9
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='e'
+Range=[-1 1]
+NumMFs=3
+MF1='N':'zmf',[-1 0]
+MF2='ZO':'trimf',[-0.5 0 0.5]
+MF3='P':'smf',[0 1]
+
+[Input2]
+Name='ec'
+Range=[-1 1]
+NumMFs=3
+MF1='N':'zmf',[-1 0]
+MF2='ZO':'trimf',[-0.5 0 0.5]
+MF3='P':'smf',[0 1]
+
+[Output1]
+Name='u'
+Range=[-1 1]
+NumMFs=3
+MF1='N':'zmf',[-1 0]
+MF2='ZO':'trimf',[-0.5 0 0.5]
+MF3='P':'smf',[0 1]
+
+[Rules]
+1 1, 1 (1) : 1
+1 2, 1 (1) : 1
+1 3, 2 (1) : 1
+2 1, 2 (1) : 1
+2 2, 2 (1) : 1
+2 3, 2 (1) : 1
+3 1, 2 (1) : 1
+3 2, 3 (1) : 1
+3 3, 3 (1) : 1
