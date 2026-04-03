@@ -48,8 +48,6 @@
 
 [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/MyMusic_Backup)
 [<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/31feluvvkh46k4t2hzgq7t6lmeee)
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/Yahuoya)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:qianwanbiefeng@gmail.com)
 
 ---
 
